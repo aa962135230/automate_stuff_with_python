@@ -1,0 +1,5 @@
+2020-08-20 10:28:56,199 - DEBUG - Some debugging deatils.
+2020-08-20 10:28:56,199 - INFO - The logging module is working.
+2020-08-20 10:28:56,199 - WARNING - An error message is about to be logged.
+2020-08-20 10:28:56,199 - ERROR - An error has occureed.
+2020-08-20 10:28:56,199 - CRITICAL - The program is unable to recover!
